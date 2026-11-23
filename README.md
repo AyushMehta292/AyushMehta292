@@ -1,46 +1,12 @@
-# Hi, I'm Ayush Mehta 👋
+### Hi, I'm Ayush
 
-**Software Engineer @ Edgetensor Tech Private Limited** | Backend, Full-Stack & Real-Time Systems
+I'm a software engineer at **Edgetensor** in Bangalore. Most of my day-to-day work is in Python, FastAPI, TypeScript, and React—building backend services that ingest live telemetry from 10,000+ fleet cameras over HiveMQ MQTT (with MinIO pre-signed uploads) and a LiveKit live-streaming dashboard that keeps end-to-end latency under 500ms.
 
----
+Before Edgetensor, I spent 6 months as a System Engineer Intern at **iRage Broking Services** (HFT) in Mumbai. There I worked on trading infrastructure monitoring (Python, InfluxDB), real-time alert filtering (Node.js, RethinkDB), a Vue 2 to Vue 3 + AG-Grid migration for 50k+ row tables, and a portfolio analytics dashboard (FastAPI, Polars, Next.js, NATS, Docker).
 
-## 💼 Experience
+I graduated from **NIT Jamshedpur** in 2025 (B.Tech EE, 8.12 CGPA) and have solved 1,000+ DSA problems across LeetCode and GeeksforGeeks.
 
-### **Software Engineer** — Edgetensor Tech Private Limited *(Bangalore, Nov 2025 – Present)*
-- Built Python backend services for **10,000+ fleet camera devices** using **HiveMQ MQTT** and **MinIO**.
-- Developed low-latency live-streaming workflows (**<500ms latency**) with **FastAPI**, **LiveKit WebRTC**, **React**, and **Tailwind CSS**.
+**What I work with most:**
+Python, TypeScript, JavaScript, C++, FastAPI, Node.js, Express, React, Next.js, Vue 3, HiveMQ MQTT, LiveKit WebRTC, MongoDB, InfluxDB, Polars, Docker, LangChain, LangGraph.
 
-### **System Engineer Intern** — iRage Broking Services LLP *(HFT, Mumbai, Feb 2025 – Aug 2025)*
-- Built **Python / InfluxDB** monitoring pipelines for HFT infrastructure.
-- Implemented real-time alert filtering with **Node.js** and **RethinkDB**.
-- Led frontend migration to **Vue 3 + AG-Grid Enterprise**.
-- Built portfolio analytics using **FastAPI**, **Polars**, and **Next.js 15**.
-
----
-
-## 🎓 Education
-
-- **B.Tech in Electrical Engineering**, NIT Jamshedpur *(2025, CGPA: 8.12)*
-
----
-
-## 🛠️ Core Tech Stack
-
-- **Languages:** C++, Python, TypeScript, JavaScript
-- **Backend & Real-Time:** FastAPI, Node.js, Express.js, HiveMQ MQTT, LiveKit WebRTC
-- **Frontend:** React.js, Next.js, Vue 3, Tailwind CSS
-- **Data, AI & Infrastructure:** MongoDB, InfluxDB, Polars, Docker, LangChain, LangGraph
-
----
-
-## 🏆 Achievements
-
-- Solved **1,000+ DSA problems** across **LeetCode** and **GeeksforGeeks**.
-
----
-
-## 🔗 Links
-
-- 🌐 **Portfolio:** [amportfolio-gold.vercel.app](https://amportfolio-gold.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/ayushmehta292](https://www.linkedin.com/in/ayushmehta292)
-- 💻 **LeetCode:** [leetcode.com/_Ayush_Mehta](https://leetcode.com/_Ayush_Mehta/)
+**Links:** [Portfolio](https://amportfolio-gold.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ayushmehta292) · [LeetCode](https://leetcode.com/_Ayush_Mehta/)
